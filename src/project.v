@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_examtt_um_uwasic_onboarding_gianna_binder (
+module tt_um_uwasic_onboarding_gianna_binder (
     input  wire [7:0] ui_in,    // Dedicated inputs 
                                 // note: ui_in[x]
                                       // x = 1: COPI, x = 2: nCS, x = 0: SCLK = serial clock
