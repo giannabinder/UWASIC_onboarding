@@ -14,9 +14,9 @@ This project implements an SPI-controlled PWM peripheral. The SPI module allows 
 
 ## How to test
 
-Explain how to use your project
+;ouhgaefuoigweoufgwef
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+wliyufg;l vwifyt;giWF
 
