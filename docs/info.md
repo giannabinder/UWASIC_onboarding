@@ -7,14 +7,10 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## About
+## How it works
 This is the UWASIC onboarding. 
 
 This project implements an SPI-controlled PWM peripheral. The SPI module allows register writes to enable or disable static outputs or PWM modes on indiiual output pins. The PWM module generates a 3 kHz signal with adjustable duty cycle using an 8-bit control register.
-
-## How it works
-
-Explain how your project works
 
 ## How to test
 
